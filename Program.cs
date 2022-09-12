@@ -10,7 +10,7 @@ namespace Hello_World_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!"); // adding some notes to test GitHub update
             Console.WriteLine("");
             Console.WriteLine("Press any key to exit.");
             var userName = Console.ReadLine();
