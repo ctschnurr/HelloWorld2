@@ -1,0 +1,16 @@
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\bin\Debug\Hello World 2.exe.config
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\bin\Debug\Hello World 2.exe
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\bin\Debug\Hello World 2.pdb
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\obj\Debug\Hello World 2.csproj.AssemblyReference.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\obj\Debug\Hello World 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\obj\Debug\Hello World 2.csproj.CoreCompileInputs.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\obj\Debug\Hello World 2.exe
+C:\Users\ctsch\OneDrive\Documents\C# Projects\Hello World 2\obj\Debug\Hello World 2.pdb
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\bin\Debug\Hello World 2.exe.config
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\bin\Debug\Hello World 2.exe
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\bin\Debug\Hello World 2.pdb
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\obj\Debug\Hello World 2.csproj.AssemblyReference.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\obj\Debug\Hello World 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\obj\Debug\Hello World 2.csproj.CoreCompileInputs.cache
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\obj\Debug\Hello World 2.exe
+C:\Users\ctsch\OneDrive\Documents\C# Projects\HelloWorld2\obj\Debug\Hello World 2.pdb
